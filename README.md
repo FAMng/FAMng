@@ -39,9 +39,9 @@
   </tr>
 </table>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=FAMng)
 
-<div align="center" >
+
+<div align="center" >![visitors](https://visitor-badge.laobi.icu/badge?page_id=FAMng)
 <a  href="https://github.com/FAMng">
 
 <img src="https://raw.githubusercontent.com/FAMng/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
