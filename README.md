@@ -39,4 +39,14 @@
   </tr>
 </table>
 
-![Visitor Badge] ![visitors](https://visitor-badge.laobi.icu/badge?page_id=FAMng)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=FAMng)
+
+<div align="center" >
+<a  href="https://github.com/FAMng">
+
+<img src="https://raw.githubusercontent.com/FAMng/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/FAMng/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/FAMng/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+
+</a>
+</div>
