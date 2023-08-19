@@ -39,4 +39,4 @@
   </tr>
 </table>
 
-![Visitor Badge] ![visitors](https://visitor-badge.laobi.icu/badge?page_id=famng)
+![Visitor Badge] ![visitors](https://visitor-badge.laobi.icu/badge?page_id=FAMng)
