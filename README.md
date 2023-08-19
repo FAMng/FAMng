@@ -1,5 +1,5 @@
 
-<div class="tenor-gif-embed" data-postid="24043741" data-share-method="host" data-aspect-ratio="2.07792" data-width="100%"><a href="https://tenor.com/view/github-welcome-gif-24043741">Github Welcome GIF</a>from <a href="https://tenor.com/search/github+welcome-gifs">Github Welcome GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 ### 💻 Technologies:
 
@@ -39,4 +39,4 @@
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=FAMng)
+![Visitor Badge] ![visitors](https://visitor-badge.laobi.icu/badge?page_id=famng)
