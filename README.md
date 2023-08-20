@@ -7,7 +7,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
 </div>
 
 ---
@@ -40,5 +39,6 @@
   </tr>
 </table>
 
+<hr>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=FAMng)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=FAMng&left_color=purple&right_color=MediumVioletRed)
