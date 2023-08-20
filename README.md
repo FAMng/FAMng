@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FAMng/FAMng/output/grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FAMng/FAMng/output/grid-snake-light.svg" />
-  <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/FAMng/FAMng/output/grid-snake.svg" />
-</picture>
-
 
 ### 💻 Technologies:
 
