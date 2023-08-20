@@ -1,4 +1,8 @@
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FAMng/FAMng/output/grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FAMng/FAMng/output/grid-snake-light.svg" />
+  <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/FAMng/FAMng/output/grid-snake.svg" />
+</picture>
 
 
 ### 💻 Technologies:
@@ -21,11 +25,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
+<hr>
 
-### ![image](https://github.com/FAMng/FAMng/blob/main/icons/codewars-svgrepo-com.png)  Codewars:
+
+### ![image](https://github.com/FAMng/FAMng/blob/main/icons/SVGRepo_iconCarrier1.svg)  Codewars:
 
 ![codewars](https://www.codewars.com/users/FAMng/badges/large)
 
+<hr>
 
 ### ![image](https://github.com/FAMng/FAMng/blob/main/icons/icons8-futures.gif) GitHub stats:
 <table>
