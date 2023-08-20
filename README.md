@@ -22,11 +22,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
 
-### 💻 Codewars:
+### ![image](https://github.com/FAMng/FAMng/blob/main/icons/codewars-svgrepo-com.svg =12x12)  Codewars:
 
 ![codewars](https://www.codewars.com/users/FAMng/badges/large)
-![image](https://github.com/ZhengYaWei1992/ZWProgressView/blob/master/Untitled3.gif)
-### ⚙️ GitHub stats:
+
+### ![image](https://github.com/FAMng/FAMng/blob/main/icons/icons8-futures.gif) GitHub stats:
 <table>
   <tr>
     <td>
