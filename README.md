@@ -22,7 +22,7 @@
 <hr>
 
 
-### ![image](https://github.com/FAMng/FAMng/blob/main/icons/SVGRepo_iconCarrier1.svg)  Codewars:
+ ![image](https://github.com/FAMng/FAMng/blob/main/icons/SVGRepo_iconCarrier1.svg)  Codewars:
 
 ![codewars](https://www.codewars.com/users/FAMng/badges/large)
 
