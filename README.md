@@ -7,8 +7,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="php" alt="php" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/FAMng/FAMng/blob/main/icons/bitrix.svg" title="1c-bitrix" alt="1c-bitrix" width="40" height="40"/>&nbsp;
+ // <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
+ // <img src="https://github.com/FAMng/FAMng/blob/main/icons/bitrix.svg" title="1c-bitrix" alt="1c-bitrix" width="40" height="40"/>&nbsp;
 </div>
 
 ---
